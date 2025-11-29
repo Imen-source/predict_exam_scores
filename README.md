@@ -97,6 +97,21 @@ Replace placeholders below with your actual screenshots if you want to include i
 - Add user authentication and advanced Streamlit features
 
 ---
+requirements.txt: lists all Python packages for easy setup. Example:
+
+numpy
+pandas
+scikit-learn
+matplotlib
+streamlit
+
+
+Notebook usage cell: a small code cell at the top of predict_scores.ipynb showing how to load the CSV and verify the first few rows. Example:
+
+import pandas as pd
+df = pd.read_csv("../data/students_scores.csv")
+df.head()
+--------
 
 ## Optional: .gitignore (suggested)
 
