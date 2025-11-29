@@ -124,4 +124,5 @@ __pycache__/
 
 ---
 
-If you'd like, I can also add a small `requirements.txt` or update the `notebooks/predict_scores.ipynb` with a short usage cell — tell me which you'd prefer.
+### Live API Demo
+Try it online: [Student Exam Score Predictor API](https://predict-exam-scores.onrender.com)
